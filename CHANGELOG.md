@@ -1,3 +1,7 @@
+# Release 2.1.1
+
+* ef9c4f3 [bugfix] Update rubocop to the latest
+
 # Release 2.1.0
 
 * 6e188f1 [feature][bugfix] support OpenBSD 6.2 (#16)
